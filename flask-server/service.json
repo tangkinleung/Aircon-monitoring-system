@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-aircon-pi",
+  "private_key_id": "7f14398d40dc42594116c5f1ad5e04cec4e578fa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEKAy36JhpeJam\n8RYjGSwZTA6dgYu8ZkWgW7IM94kYvnGcaQRQj08k9YHVsEKhBBKeOTVm9mL5JHNK\n+83nAK4jwOeIDgY6/kJ07+ckhT9ys35mITzoOILGa7tG4F8JwdAWzXVelFmLSGn3\nNY2xO7Ji1JAuTPd+hd4WIkc21uJrfX1EKFJIkF5t/PHPG3W9q3TX1XT2Vx/8iT5p\n0naHVK9zBE5twEd7TXZxMDQew0DFu4JqOLARjiaTZYWHlvdEk1zkE2fjCxJxBcI3\nNsW/7ZMttW43DUTYazy5mcvXLOBk/vDz8R5dXKUfiBpYsEJZJaHw33QCBqKNacVd\nD78tLZIJAgMBAAECggEAPDmVqhN6VAunqYrkwpL0dLHi3N4M4qO95d2xXYTUrWmv\nZRfjML7HTHAqVEsBMgGXm8exyzKDsb3Mvi1wiuetD6InFCFGLW+qRM/xdkeI8vUE\nLmQvGJddI4GpJro1w7+jXZToX8kJcxehHTrujYdoHiroN6b+5/Q++ym8FqzEKL79\ni2tdyW5wwGUHr5Dhetm84RJSTpkPIIAqtnDrUyo2ZRsuMuvXXkm2XF+WM1OHJ4s9\nMsu0Swq3zEQLW0MLs7+Au5PdITsfVR+Fu08+x2O4g8MN7Y1BOdJuiAwq3wECN9PT\n/LLVQK+Mkvwb+ZBy9bKLQqvti8ts66HGLlPU/5u3PwKBgQDjnXUJZJKGWghWHg0s\nnIFaraibWZq5MYAxJnrgRtVUdGwkQJzXwbNFs/7/o5ELXDTqJxVcQA4eCAruCLJn\nsqUeF72sXhFPRNE3rsBsscAg4K5J8HG0JZ/xU30buWuPifh2TSkRfTOMDsE12y8C\n81syisCjen1drO+6Vx1/M2NNJwKBgQDcnkkPaXZvFfzQNBEqsaJpXbS66dMVUOzo\nDdqsBpoxeEriFPB3L2uApJZPul/LWtN2WXRyP3mfiAQjsI6h0SjvdvbbSw8DzqnS\nKF4y9Jx6kiSkrAsjzcOmaToCK05tTJzyU8si3DgRuV6cgmKPZws9IpX5AqD3/igF\nqmmfeSEFTwKBgCV9B4u2ftOV/I2CgZT5aeyvcXe0uGEMIBr4RYCu6e/xBOarpal7\ng7VVQgiEvhzq4OQ377Kz8h9MH9C4qfmeWMeuDVVYYO13XiYXqCW+2PARUWNoMLIF\nCGTM5Wwti+OmS7/gUYVJ47WLsJLYONP5lOmsJLJIOGG3W/yK4JbUteQ9AoGBALIM\nQJRincV7LkRtsOkO4S8+A+zRZpyOahPBkphA39JK7cxV79eQeqcgrXp8xHDexUh/\nW14U4jgg0o5nIEVyAyJ3lTRX+C8va5iDIbrn9R1qso3/lyH3Hw4/YCR+BNZq/UMI\n4ykoJ0wOmU+gXqCzHbviHL0RJQ3fnTctV/7vB/o7AoGAeIRPfVGgKf3mwcGwz3Yu\nFlr9Tsfxm8+ArpZFPa/zLIqdQ4Ypv5pLtsCgrUQXM5ZMYI1JvVPcCfWw+67SBsiv\n/8MnIdRpzST2HcMe75yCoVkZ/dTg3AiuaZT7sP+IqZFv2U9STn7bm9hlCCS+b3WZ\nO0jncd14jJcqFSW00L+OwdQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "p2-2-smartaircon@smart-aircon-pi.iam.gserviceaccount.com",
+  "client_id": "107608018581409312492",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/p2-2-smartaircon%40smart-aircon-pi.iam.gserviceaccount.com"
+}
