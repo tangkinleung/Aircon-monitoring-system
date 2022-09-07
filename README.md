@@ -1,7 +1,8 @@
 # IoT_Project
 
 
-# Rough Workflow
+# Research Paper
+https://docs.google.com/document/d/1THjKr8oIAG5uGRwdnKA4AYegXhfyYLA9rIDVJ3AcEbY/edit
 
 # Web Application: Send command to central RPi and google sheets for logging concurrently (every 30mins or whenever temperature is changed)
 
